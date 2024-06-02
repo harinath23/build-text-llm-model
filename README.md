@@ -1,6 +1,6 @@
 # build-text-llm-model
 
-## Story llm model bu
+## Story llm model
 
 ### Table of Contents
 1. [Introduction](#introduction)
